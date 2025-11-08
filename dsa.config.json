@@ -1,9 +1,10 @@
 {
+  "projectId": "1cdb3ba7-cfbd-4eec-8c3c-553bc8ef1dac",
+  "projectToken": "8587cae4-c0cf-4145-a5cc-fbcf784e64671498d9289e0249a2891df9280634d70a",
   "moduleId": "binary-search",
   "language": "Java",
+  "apiUrl": "https://mwlhxwbkuumjxpnvldli.supabase.co/functions/v1",
   "testCommand": "bash tests/run.sh",
   "reportFile": ".dsa-report.json",
-  "projectId": "TBD",
-  "projectToken": "TBD"
+  "currentChallengeIndex": 0
 }
-
